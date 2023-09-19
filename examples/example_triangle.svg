@@ -1,0 +1,6 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+                <polygon points="250,60 100,400 400,400"  fill="red" stroke="black" stroke-width="20" />
+                <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="60px" font-weight="700" fill="black">SLM</text>
+            </svg>
+            
