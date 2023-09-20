@@ -1,0 +1,7 @@
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+                <rect x="137.5" y="137.5" width="225" height="225" fill="red" stroke="black" stroke-width="10" />
+                <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60px" font-weight="700"
+        fill="black">SLM</text>
+            </svg>
+        

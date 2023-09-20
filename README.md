@@ -44,18 +44,19 @@ Download the repo. Open the main folder within a command-line terminal. Run "npm
 This simple command-line app can be used to create logos with a background of either squares, circles, or triangles. A fill color, stroke weight and stroke color can be applied to these shapes. Also, 1-3 letters can be centered within these shapes in the color of your choice. 
 <br><br>
 Here is an example of a square:<br>
-<img src="./examples/example_square.svg" style = "width:100px; height:100px">
+<img src="./examples/example_square.svg" style = "width:150px; height:150px">
 <br>
 Here is an example of a circle:<br>
-<img src="./examples/example_circle.svg" style = "width:100px; height:100px">
+<img src="./examples/example_circle.svg" style = "width:150px; height:150px">
 <br>
 Here is an example of a triangle:<br>
-<img src="./examples/example_triangle.svg" style = "width:100px; height:100px">
+<img src="./examples/example_triangle.svg" style = "width:150px; height:150px">
 <br>
-This gif shows a waklthrough of the process to create your own svg:
-INSERT GIF
+This gif shows a walkthrough of the process to create your own svg:  
+<img src="./gif walkthrough/SVG Logo Creator.gif"><br><br>
 
-[This is a link](link.com) to a google drive folder that contains the full movie above with audio.
+
+[This is a link](https://drive.google.com/file/d/1T90xk6nOWYbS4CCL4-T5Qnse7RqpTyOp/view?usp=sharing) to a google drive folder that contains a more detailed description of the project--including installation and test instructions--with audio.
 
 <p align="right">(<a href="#back_to_top">back to top</a>)</p>
 
